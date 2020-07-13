@@ -1,0 +1,7 @@
+---
+layout: post
+title: "On the Optimization of Pan Fried Tofu"
+---
+
+# Test
+\\[a^2+b^2=c^2\\]
