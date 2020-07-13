@@ -1,0 +1,27 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* image captions */
+img + em {
+    display: block;
+    text-align: center;
+    font-size: smaller;
+}
+
+.prompt {
+    color: darkgray;
+}
+
+div.jupyter {
+    padding: 16px;
+    background-color: #FCF6EE;
+    border-radius: 5px;
+    font-size: smaller;
+}
+
+div.jupyter pre {
+    background-color: #D6D6FF;
+}
