@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On the Optimization of Pan Fried Tofu"
+image: "/assets/tofu1.jpg"
 ---
 
 I like tofu. I especially like well browned, pan fried tofu.
@@ -28,7 +29,7 @@ My assumptions/parameters:
 * My tofu flipping is uniformly and independently random
 * Each flip costs 0.1 minutes of cooking time (to account for flipping time + cooling effect, and because 
 \\(\frac{1}{10}\\) is a nice number)
-* The time for ideal browning seems to be sometime between 2-3 minutes on a side. For my purposes, I set 2 minutes as 
+* The time for ideal browning seems to be somewhere around 2-2.5 minutes on a side. For my purposes, I set 2 minutes as 
 the minimum for a well-browned tofu face
 
 ## Defining the problem
@@ -277,4 +278,16 @@ not *over* done.
   with no more than 80% with less than 3 or more than 5)? 
   
 Maybe I'll look into these questions at some point. Before that, though, I'm going to test out my results...
-(Insert to be taken photo of optimal pan fried tofu)
+
+
+## Update (07-18):
+I finally got around to testing out my method and..... the results were mixed. The tofu turned out fine, actually
+really good. The sides were all, pretty uniformly, well browned. 
+![Some nice looking tofu](/assets/tofu2.jpg)
+But turns out flipping every 46 seconds (40 + 6 to incorporate the flip time), 24 times in a row for a total of 18 minutes can... be a little tiring.
+I did notice that most of the sides were more browned them I'm used to. This makes sense, since the expected value of time
+on a side is \\(\frac{2}{k}*24/6 = \frac{8}{3} \approx 2.67\\) minutes. 
+
+Now I wonder what happens if I set my targets a little lower, and optimize for minimum number of flips. What is the minimum 
+number of flips required to get an *expected value* of 2 minutes on each side while also keeping variance low. Perhaps with
+a standard deviation within 20 seconds. 
