@@ -21,7 +21,7 @@
 title: Daniel Lee
 email: laniel@seas.upenn.edu 
 description: >- # this means to ignore newlines until "baseurl:"
-        A blog for my random thoughts, ideas, and one week long obsessions.
+        A blog for exploring my random (but usually math/computer science related) thoughts, ideas, and one week long obsessions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dan-iel-lee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dan-iel-lee 
