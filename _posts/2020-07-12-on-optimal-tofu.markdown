@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the Optimization of Pan Fried Tofu"
-image: "/images/tofu1.png"
+image: "/images/tofu/tofu1.png"
 ---
 
 I like tofu. I especially like well browned, pan fried tofu.
@@ -259,7 +259,7 @@ And the winner is...
 
 ***K=3!** (at least for a target of 90% with four browned sides) with a total cook time of 18.4 minutes
 with 24 flips.*
-![Plot for 4 sides at a confidence of 90%](/images/plt_90_4.png)
+![Plot for 4 sides at a confidence of 90%](/images/tofu/plt_90_4.png)
 *Graph from line [5] in the jupyter notebook*
 
 ### Observations
@@ -283,7 +283,7 @@ Maybe I'll look into these questions at some point. Before that, though, I'm goi
 ## Update (07-18):
 I finally got around to testing out my method and..... the results were mixed. The tofu turned out fine, actually
 really good. The sides were all, pretty uniformly, well browned. 
-![Some nice looking tofu](/images/tofu2.jpg)
+![Some nice looking tofu](/images/tofu/tofu2.jpg)
 But turns out flipping every 46 seconds (40 + 6 to incorporate the flip time), 24 times in a row for a total of 18 minutes can... be a little tiring.
 I did notice that most of the sides were more browned them I'm used to. This makes sense, since the expected value of time
 on a side is \\(\frac{2}{k}*24/6 = \frac{8}{3} \approx 2.67\\) minutes. 

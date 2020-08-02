@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0" nonce="S16TwRIb"></script>
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -24,6 +26,8 @@ layout: default
   {%- if site.disqus.shortname -%}
   {%- include disqus_comments.html -%}
   {%- endif -%}
+
+  <div class="fb-comments" data-href="https://dan-iel-lee.github.io/" data-numposts="5" data-width="100%"></div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
