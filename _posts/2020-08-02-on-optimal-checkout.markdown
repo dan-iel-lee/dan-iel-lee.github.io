@@ -7,7 +7,7 @@ image: "/images/checkout/supermarket.jpg"
 Covid-19 has had devastating effects, across cities, counties, states, and countries.
 But, in addition to its most life changing and paradigm shattering consequences, we've also seen subtler changes: [vivid dreams](https://www.nationalgeographic.com/science/2020/04/coronavirus-pandemic-is-giving-people-vivid-unusual-dreams-here-is-why/) are the new norm, more people are adopting [puppies](https://www.wired.com/story/coronavirus-pet-adoption-boom/), and [video games](https://www.businessinsider.com/who-video-games-coronavirus-pandemic-mental-health-disorder-2020-4) are now good for us. It may seem insensitive to think about these side-effects, given their triviality in the face of loss of life orders of magnitude greater than that of 9/11. How can we talk about puppies when two football stadium-fulls of Americans have succumbed to the deadliest and least understood virus since the Spanish Flu?
 
-I join all 7.7 billion of my fellow world citizens in surprise, confusion, fear, sadness, and occasionally anger. But sometimes it's nice to allow our minds a break from the cyclic coverage of portable morgues, business graveyards, governors with their masks on, the president with his mask off; and staggering numbers, so consistently high that they no longer seem staggering. 
+I join all 7.7 billion of my fellow world citizens in surprise, confusion, fear, sadness, and occasionally anger. But sometimes it's nice to allow our minds a break from the cyclic coverage of portable morgues, business graveyards, and staggering numbers; so consistently high that they no longer seem staggering. 
 
 --- 
 
