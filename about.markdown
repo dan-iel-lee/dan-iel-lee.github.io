@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*A blog for exploring my random (but usually math/computer science related) thoughts, ideas, and one week long obsessions.*
+<img src="/images/propic.jpg" width="250px" height="250px" style="float: left; margin-right: 32px; margin-top: 0px; border-radius:50%;" />
+Welcome to my blog. I am (as of Fall 2020) a Junior at UPenn pursuing a bachelor's in CS and Math Econ, as well as a master's in Electrical Engineering with a specialization in Information and Decision Systems. 
 
-This has gotten a lot more hits than I'd expected, so I thought I'd give anyone interested some more context about me. 
-
-I'm an undergrad in CS and Math Econ at UPenn (and planning on a master's in EE), and currently interning at Amazon. Right now (and this is an extremely qualified *right now*, this is apt to change at any moment) I'm interested statistics/machine learning, as well as questions of authentication, security, and privacy.
-
-I'd love to hear from anyone with feedback, comments, and especially criticism, or who's just interested in chatting about math/CS! 
+My current technical interests lie in programming languages, formal verification and machine learning. I'm also interested in questions about knowledge/epistomology, logic and the foundations of math and computing, human behavior, societal behavior, and overall trying to understand the how the world works at both a micro and a macro level.
