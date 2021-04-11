@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Games Become D̶u̶e̶l̶s̶ Duals"
+subtitle: "A game theoretic perspective on Lagrangian Duality"
 image: "/images/duals/duel.png"
 ---
 
