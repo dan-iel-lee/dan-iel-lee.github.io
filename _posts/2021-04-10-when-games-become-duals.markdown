@@ -112,6 +112,7 @@ We'll conclude with a quick example.
 
 ### A familiar example 
 Consider the following linear optimization problem:
+
 $$\begin{align*}
   \mathrm{minimize}_x\;& 2x-1 \\
   \mathrm{subject\;to}\;& 4x \geq 2
@@ -120,6 +121,7 @@ $$\begin{align*}
 Yes, I know that $4x\geq 2$ is equivalent to $2x\geq 1$. I have my reasons, which will be revealed in time...
 
 Next, we take the Lagrangian before dualizing.
+
 $$L(x,y)=2x-1 + y(2-4x)$$
 
 Minimizing w.r.t $x$ after fixing $y$ (implicitly assuming a non-negative domain for $x$) gives the following dual problem:
