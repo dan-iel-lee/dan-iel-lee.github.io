@@ -10,7 +10,7 @@ layout: default
     <span class="bootstrap-iso"><img src="{{ page.image }}" class="bootstrap-iso img-fluid rounded"
         style="margin-bottom: 2em;"></span>
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    {% if page.subtitle %}<h4>{{ page.subtitle | escape }}</h4>{% endif %}
+    {% if page.subtitle %}<h3>{{ page.subtitle | escape }}</h3>{% endif %}
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
