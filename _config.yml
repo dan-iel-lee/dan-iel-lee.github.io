@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Daniel Lee
-email: laniel@seas.upenn.edu 
+email: laniel@seas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-        A blog for exploring my random (but usually math/computer science related) thoughts, ideas, and one week long obsessions.
+  A blog for exploring my random (but usually math/computer science related) thoughts, ideas, and one week long obsessions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dan-iel-lee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: dan-iel-lee 
+github_username: dan-iel-lee
 
 # Build settings
 theme: minima
@@ -34,7 +34,7 @@ plugins:
 # github required pages
 lsi: false
 safe: true
-source: . 
+source: .
 incremental: false
 highlighter: rouge
 gist:
@@ -46,6 +46,8 @@ kramdown:
 # include google analytics
 google_analytics: UA-31196407-4
 
+header_pages:
+  - about.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
