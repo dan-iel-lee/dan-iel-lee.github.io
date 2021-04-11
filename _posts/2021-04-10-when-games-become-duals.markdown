@@ -102,13 +102,14 @@ $$\begin{align*}\tag{3}
   \mathrm{subject\;to}\;& \lambda_i \geq 0
 \end{align*}$$
 
-This is exactly the famous **Lagrangian dual** problem to (1) from convex optimization. And the fact that the value (usually called $d^*$) of (3) is equal to
+This is exactly the famous **Lagrangian dual** problem from convex optimization. And the fact that the value of (3) is equal to
 $p^*$ (modulo feasibility) is exactly the fundamental **strong duality** theorem of convex optimization.
 
 Another cool piece of intuition we can transfer from the game theory setting is the idea of "making your opponent indifferent." In this case, the EPA is trying to set their prices in a way that the gradient of $L$ w.r.t $x$ is zero. I.e. Exxon is *indifferent* to changing its $x$ locally (and globally, is best off staying put because of convexity).
 
 
-I think this connection is really sweet. When I first saw strong duality, I struggled to gain intuition for why we were doing what we were doing. Without the right framework from which to view it, the Lagrangian can look rather arbitrary. Looking at it from a game perspective provides a natural, intuitive framework.
+I think this connection is really sweet. When I first saw strong duality, I struggled to gain intuition for why we were doing what we were doing. Without the right framework from which to view it, the Lagrangian can look rather arbitrary. Looking at it from a game perspective provides a natural, intuitive framework. 
+
 
 We'll conclude with a quick example.
 
@@ -141,4 +142,9 @@ $$L(x,y)=-1+2x+2y-4xy = [x(1-y)-(1-x)y] - [xy + (1-x)(1-y)]$$
 Interpret $x$ as probability that Alice picks heads, and $y$ as probability that Bob picks head and... Yes! It's exactly the matching pennies game (this is why I chose to use $4x\geq 2$)! And we can easily check that the solution to the dual and primal give us $x=y=\frac{1}{2}$ with value $0$. Duals are games... and games are duals!
 
 ## Conclusion 
-Life isn't zero-sum, and even some games aren't. But duels are, and though that might not've been good for Hamilton or Galois, it's good for us.
+At the start of this post, I'd remarked that this is the most "ubiquitous" application of zero-sum games. I won't go into too much depth (this is already a lot longer than I, and probably you too, hoped it'd be), but duality really has proved itself incredibly important. In convex optimization itself, the dual is used for sensitivity (how the optimal value changes with small perturbations of the constraints) analysis and to improve tractibility of a problem by transforming it from a problem with many variables and low dimension, to one with few variables. 
+
+
+It also pops up in graph theory, where [the equivalence of flow maximization and cut minimization](https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem) follows from the duality between the problems as linear programs. I think this last point is especially cool; an important result in graph theory can be seen as an instantiation of another theorem which is fundamentally about competitive interactions between two adversaries. This. This is why I love math and computer science.
+
+Life isn't zero-sum, and even some games aren't. But duels are, and though that might not've been good for Hamilton or Galois, it's good for us. 
