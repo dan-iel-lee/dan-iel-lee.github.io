@@ -102,7 +102,8 @@ $$\begin{align*}\tag{3}
   \mathrm{subject\;to}\;& \lambda_i \geq 0
 \end{align*}$$
 
-This is exactly the famous **Lagrangian dual** problem to (1) from convex optimization. And the fact that the value (usually called $d^*$) of (3) is equal to $p^*$ (modulo feasibility) is exactly the fundamental **strong duality** theorem of convex optimization.
+This is exactly the famous **Lagrangian dual** problem to (1) from convex optimization. And the fact that the value (usually called $d^*$) of (3) is equal to
+$p^*$ (modulo feasibility) is exactly the fundamental **strong duality** theorem of convex optimization.
 
 Another cool piece of intuition we can transfer from the game theory setting is the idea of "making your opponent indifferent." In this case, the EPA is trying to set their prices in a way that the gradient of $L$ w.r.t $x$ is zero. I.e. Exxon is *indifferent* to changing its $x$ locally (and globally, is best off staying put because of convexity).
 
