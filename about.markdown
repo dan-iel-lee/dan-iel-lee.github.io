@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
 <img src="/images/propic.jpg" width="250px" height="250px" style="float: left; margin-right: 32px; margin-top: 0px; border-radius:50%;" />
-Welcome to my blog. I am (as of Fall 2020) a Junior at UPenn pursuing a bachelor's in CS and Math Econ, as well as a master's in Electrical Engineering with a specialization in Information and Decision Systems. 
+Welcome to my blog. I am (as of Spring 2021) a Junior at UPenn pursuing a bachelor's in CS and Math Econ, as well as a Master's in Computer Science and Mathematics.
 
-My current technical interests lie in programming languages, formal verification and machine learning. I'm also interested in questions about knowledge/epistomology, logic and the foundations of math and computing, human behavior, societal behavior, and overall trying to understand the how the world works at both a micro and a macro level.
+My current technical interests lie in game theory, complexity theory, programming languages, category theory, and machine learning. I'm also interested in questions about knowledge/epistomology, logic and the foundations of math and computing, human behavior, societal behavior, and overall trying to understand the how the world works at both a micro and a macro level.
