@@ -47,6 +47,7 @@ kramdown:
 google_analytics: UA-31196407-4
 
 header_pages:
+  - pages/projects.markdown
   - about.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
