@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research+Projects
-permalink: /courses/
+permalink: /research/
 ---
 
 ## Publications

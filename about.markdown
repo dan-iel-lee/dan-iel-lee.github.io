@@ -11,4 +11,5 @@ My current technical interests lie in game theory, complexity theory, programmin
 ### Links
 
 [Research, Projects, and Presentations]({{ site.baseurl }}{% link pages/projects.markdown %})
+
 [My coursework]({{ site.baseurl }}{% link pages/courses.markdown %})
