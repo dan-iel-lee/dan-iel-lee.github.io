@@ -14,6 +14,12 @@ Authors: Richard A. Eisenberg, Guillaume Duboc, Stephanie Weirich, **DL**
 
 ## Talks, Surveys, Projects
 
+### Talk: Expander Graphs (Fall 2021)
+Slides for a 10 minute talk on expander graphs, for the [Directed Reading Program](https://www2.math.upenn.edu/~tbraz/drp/index.html).
+
+<iframe src="https://drive.google.com/file/d/1iMmOVkWd2eAl1V6j_zoYIMRGq9X-i3e2/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 ### Talk: Hardness vs. Randomness (Spring 2021)
 Slides and lecture notes for a talk I gave about *Hardness vs. Randomness* (Nisan, Wigderson 1994), for **CIS 700 Computational Complexity**.
 

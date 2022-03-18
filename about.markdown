@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 <img src="/images/propic.jpg" width="250px" height="250px" style="float: right; margin-left: 32px; margin-top: 0px; border-radius:50%;" />
-Welcome to my blog. I am (as of Spring 2021) a Junior at UPenn pursuing a Bachelor's degree in Computer Science and Mathematical Economics, as well as Masters degrees in Computer Science and Mathematics.
+Welcome to my blog. I am (as of Spring 2022) a Senior at UPenn pursuing a Bachelor's degree in Computer Science and Mathematical Economics, as well as Masters degrees in Computer Science and Mathematics.
 
-My current technical interests lie in game theory, complexity theory, programming languages, category theory, and machine learning. I'm also interested in questions about knowledge/epistomology, logic and the foundations of math and computing, human behavior, societal behavior, and overall trying to understand the how the world works at both a micro and a macro level.
+My interests lie in theoretical computer science as a whole. In particular, recently I've been working on topics in online learning, game theory, and algorithmic fairness. I also enjoy thinking about cryptography, computational complexity, and graph theory. In the past, I've done some research in programming languages theory as well, with forays into category theory and Homotopy Type Theory.
 ### Links
 
 [Research, Projects, and Presentations]({{ site.baseurl }}{% link pages/projects.markdown %})
