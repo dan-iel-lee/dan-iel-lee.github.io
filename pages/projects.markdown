@@ -6,6 +6,14 @@ permalink: /research/
 
 ## Publications
 
+
+### [Online Minimax Multiobjective Optimization: Multicalibeating and Other Applications (NeurIPS 2022, Selected for Oral)](https://arxiv.org/abs/2108.03837)
+Authors: **DL**, Georgy Noarov, Mallesh Pai, Aaron Roth
+
+**Abstract:** 
+We introduce a simple but general online learning framework in which a learner plays against an adversary in a vector-valued game that changes every round. Even though the learner's objective is not convex-concave (and so the minimax theorem does not apply), we give a simple algorithm that can compete with the setting in which the adversary must announce their action first, with optimally diminishing regret. We demonstrate the power of our framework by using it to (re)derive optimal bounds and efficient algorithms across a variety of domains, ranging from multicalibration to a large set of no regret algorithms, to a variant of Blackwell's approachability theorem for polytopes with fast convergence rates. As a new application, we show how to ``(multi)calibeat'' an arbitrary collection of forecasters -- achieving an exponentially improved dependence on the number of models we are competing against, compared to prior work.
+
+
 ### [An Existential Crisis Resolved: Type Inference for First-Class Existential Types (ICFP 2021, Distinguished Paper)](https://icfp21.sigplan.org/details/icfp-2021-papers/3/An-Existential-Crisis-Resolved-Type-Inference-for-First-Class-Existential-Types)
 Authors: Richard A. Eisenberg, Guillaume Duboc, Stephanie Weirich, **DL**
 
