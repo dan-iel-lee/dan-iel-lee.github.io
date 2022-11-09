@@ -7,17 +7,20 @@ permalink: /research/
 ## Publications
 
 
-### [Online Minimax Multiobjective Optimization: Multicalibeating and Other Applications (NeurIPS 2022, Selected for Oral)](https://arxiv.org/abs/2108.03837)
+### [Online Minimax Multiobjective Optimization: Multicalibeating and Other Applications (NeurIPS 2022, *Selected for Oral Presentation*)](https://arxiv.org/abs/2108.03837)
 Authors: **DL**, Georgy Noarov, Mallesh Pai, Aaron Roth
 
 **Abstract:** 
 We introduce a simple but general online learning framework in which a learner plays against an adversary in a vector-valued game that changes every round. Even though the learner's objective is not convex-concave (and so the minimax theorem does not apply), we give a simple algorithm that can compete with the setting in which the adversary must announce their action first, with optimally diminishing regret. We demonstrate the power of our framework by using it to (re)derive optimal bounds and efficient algorithms across a variety of domains, ranging from multicalibration to a large set of no regret algorithms, to a variant of Blackwell's approachability theorem for polytopes with fast convergence rates. As a new application, we show how to ``(multi)calibeat'' an arbitrary collection of forecasters -- achieving an exponentially improved dependence on the number of models we are competing against, compared to prior work.
 
 
-### [An Existential Crisis Resolved: Type Inference for First-Class Existential Types (ICFP 2021, Distinguished Paper)](https://icfp21.sigplan.org/details/icfp-2021-papers/3/An-Existential-Crisis-Resolved-Type-Inference-for-First-Class-Existential-Types)
+### [An Existential Crisis Resolved: Type Inference for First-Class Existential Types (ICFP 2021, *Winner of Distinguished Paper Award*)](https://icfp21.sigplan.org/details/icfp-2021-papers/3/An-Existential-Crisis-Resolved-Type-Inference-for-First-Class-Existential-Types)
 Authors: Richard A. Eisenberg, Guillaume Duboc, Stephanie Weirich, **DL**
 
 **Abstract:** Despite the great success of inferring and programming with universal types, their dual—existential types—are much harder to work with. Existential types are useful in building abstract types, working with indexed types, and providing first-class support for refinement types. This paper, set in the context of Haskell, presents a bidirectional type-inference algorithm that infers where to introduce and eliminate existentials without any annotations in terms, along with an explicitly typed, type-safe core language usable as a compilation target. This approach is backward compatible. The key ingredient is to use *strong* existentials, which support (lazily) projecting out the encapsulated data, not weak existentials accessible only by pattern-matching.
+
+### Single-Server Private Information Retrieval in the Shuffle Model. (Manuscript. In submission to Eurocrypt 2023)
+Authors: Yuval Ishai, Mahimna Kelkar, **DL**, and Yiping Ma
 
 ## Theses
 
