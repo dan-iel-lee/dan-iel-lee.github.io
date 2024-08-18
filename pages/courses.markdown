@@ -4,6 +4,8 @@ title: Coursework
 permalink: /courses/
 ---
 
+New webpage: <a href="https://dan-iel-lee.vercel.app/">dan-iel-lee.vercel.app</a>
+
 These past several years in university, I've had the privilege of learning from and with some of the most brilliant people I've known. Of course, this experience cannot be distilled down to a transcript. However, given the limits of text based communication, a course list is perhaps the most dense projection of this information. Read my blog posts to get to know me better!
 
 ## Favorites 
