@@ -4,6 +4,8 @@ title: About me
 permalink: /about/
 ---
 
+New webpage: <a href="https://dan-iel-lee.vercel.app/">dan-iel-lee.vercel.app</a>
+
 <img src="/images/propic.jpg" width="250px" height="250px" style="float: right; margin-left: 32px; margin-top: 0px; border-radius:50%;" />
 Welcome to my blog. I am now (as of Fall 2022) a Quant Trader at Susquehanna International Group. Previously, I went to UPenn where I obtained my Bachelor's degree in Computer Science and Mathematical Economics, as well as Masters degrees in Computer Science and Mathematics.
 
